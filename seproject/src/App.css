@@ -1,0 +1,10 @@
+.company-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.company-form input, .company-form select {
+  padding: 0.5rem;
+}
